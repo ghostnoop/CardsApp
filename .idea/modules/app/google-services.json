@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678685124303",
+    "firebase_url": "https://cardstinapp-ot.firebaseio.com",
+    "project_id": "cardstinapp-ot",
+    "storage_bucket": "cardstinapp-ot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678685124303:android:707791fe0628f6fd0f79ba",
+        "android_client_info": {
+          "package_name": "crd.ctin.cardstinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678685124303-g8a41iqmbduh2t6sr7r6dcnusspju94o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "crd.ctin.cardstinapp",
+            "certificate_hash": "f0a78279261eee642645ca6cdd39223df41e9fe9"
+          }
+        },
+        {
+          "client_id": "678685124303-s6hnp1kjteh9qj7da3bg7tehfnm9o2do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8VNFAiR6iQ_iav4dUKb6a3zibJWTV8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678685124303-s6hnp1kjteh9qj7da3bg7tehfnm9o2do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
